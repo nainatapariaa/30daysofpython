@@ -7,6 +7,16 @@ print(3/4)
 print(3 ** 4)
 print(3 // 4)
 
+#day 1 - 1.4
+print(type(10))
+print(type(9.8))
+print(type(3.14))
+print(type(4 - 4j))
+print(type(['Asabeneh', 'Python', 'Finland']))
+print(type("Naina"))
+print(type("Taparia"))
+print(type("India"))
+
 #day 1 - 1.2.
 print("Naina")
 print("Taparia")
